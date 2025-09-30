@@ -2,4 +2,4 @@
 
 Command for start project: uvicorn main:app --reload
 
-The only path: http://127.0.0.1:8000/docs and post method http://127.0.0.1:8000/tasks which you can use through swagger in the first path
+Main path: http://127.0.0.1:8000/docs (Swagger)
